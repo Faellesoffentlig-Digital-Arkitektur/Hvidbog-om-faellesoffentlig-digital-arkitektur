@@ -220,35 +220,40 @@ Reglerne skal anvendes pragmatisk og med brug af sund fornuft. Afvigelser fra re
 
 **Princip 1: Arkitektur styres på rette niveau efter fælles rammer (styring)**
 
-* AR 1.1: Styr arkitekturen på rette niveauer og sammenhængende AR 1.2: Optimér arkitektur efter projektets og de fælles mål
-* AR 1.3: Anvend fælles ramme for beskrivelse af arkitekturen AR 1.4: Sørg for review af projektets arkitektur
+* AR 1.1: Styr arkitekturen på rette niveauer og sammenhængende
+* AR 1.2: Optimér arkitektur efter projektets og de fælles mål
+* AR 1.3: Anvend fælles ramme for beskrivelse af arkitekturen
+* AR 1.4: Sørg for review af projektets arkitektur
 * AR 1.5: Hav tilstrækkelige kompetencer til arkitektur-arbejdet
 
 **Princip 2: Arkitektur fremmer sammenhæng, innovation og effektivitet (strategi)**
 
-* AR 2.1: Anvend og udbyg den fællesoffentlige arkitektur AR 2.2: Anvend åbne og internationale standarder
-* AR 2.3: Undgå afhængighed af leverandører og proprietære teknologier AR 2.4: Byg med udgangspunkt i brugeren og forberedt til forandring AR 2.5: Stil data og løsninger til rådighed for private
+* AR 2.1: Anvend og udbyg den fællesoffentlige arkitektur
+* AR 2.2: Anvend åbne og internationale standarder
+* AR 2.3: Undgå afhængighed af leverandører og proprietære teknologier
+* AR 2.4: Byg med udgangspunkt i brugeren og forberedt til forandring
+* AR 2.5: Stil data og løsninger til rådighed for private
 
 **Princip 3: Arkitektur og regulering understøtter hinanden (jura)**
 
-* AR 3.1: Tag højde for juridiske bindinger i forhold til deling og genbrug af data og it-systemer AR 3.2: Bidrag til digitaliseringsklar lovgivning
+* AR 3.1: Tag højde for juridiske bindinger i forhold til deling og genbrug af data og it-systemer
+* AR 3.2: Bidrag til digitaliseringsklar lovgivning
 
 **Princip 4: Sikkerhed, privatliv og tillid sikres (sikkerhed)**
 
-* AR 4.1: Opfyld krav til informationssikkerhed og privatlivsbeskyttelse AR 4.2: Anvend fælles arkitektur for informationssikkerhed
+* AR 4.1: Opfyld krav til informationssikkerhed og privatlivsbeskyttelse
+* AR 4.2: Anvend fælles arkitektur for informationssikkerhed
 
 **Princip 5: Processer optimeres på tværs (opgaver)**
 
 * AR 5.1: Design sammenhængende brugerrejser
-
 * AR 5.2: Optimér tværgående processer efter fælles mål
 
 **Princip 6: Gode data deles og genbruges (information)**
 
 * AR 6.1: Del og genbrug data
-
-* AR 6.2: Anvend fælles regler for dokumentation af data AR 6.3: Giv data den kvalitet som efterspørges
-
+* AR 6.2: Anvend fælles regler for dokumentation af data
+* AR 6.3: Giv data den kvalitet som efterspørges
 * AR 6.4: Udstil oplysninger om datakilder, begreber og datamodeller
 
 **Princip 7: It-løsninger samarbejder effektivt (applikation)**
